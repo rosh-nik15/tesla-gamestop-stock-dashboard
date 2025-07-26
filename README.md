@@ -42,7 +42,7 @@ I confirm that this work is my own and I have followed the [Coursera Honor Code]
 
 ## Link to My Notebook
 
-👉 [Click here to view the notebook](https://example.com)
+https://github.com/rosh-nik15/tesla-gamestop-stock-dashboard/tree/main
 
 (Replace the above link with your actual GitHub notebook URL.)
 
